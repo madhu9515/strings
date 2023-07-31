@@ -1,0 +1,5 @@
+# strings
+strg='PYTHON IS A OPEN SOURCE'
+print(strg[3:8])
+print(strg[5:len(strg)])
+print(strg[-1:-7])
